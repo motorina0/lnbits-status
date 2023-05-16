@@ -1,0 +1,13 @@
+{
+    "killswitch": 0,
+    "version": "0.10.7",
+    "notifications": [
+        {
+            "time": 1684239174,
+            "message": "This is the 2nd test message"
+        }, {
+            "time": 1684230174,
+            "message": "This is the first test message"
+        }
+    ]
+}
