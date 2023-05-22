@@ -1,13 +1,16 @@
 {
     "killswitch": 0,
-    "version": "0.10.7",
+    "version": "0.10.8",
     "notifications": [
         {
             "time": 1684239174,
-            "message": "This is the 2nd test message"
+            "type": "warning",
+            "message": "The killswitch has been activated."
         }, {
             "time": 1684230174,
-            "message": "This is the first test message"
+            "type": "update",
+            "message": "Update to 0.10.8 is available.",
+            "link": "Update to 0.10.8 is available."
         }
     ]
 }
