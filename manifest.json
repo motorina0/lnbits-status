@@ -3,11 +3,11 @@
     "version": "0.10.8",
     "notifications": [
         {
-            "time": 1684239174,
+            "date": 1684239174,
             "type": "warning",
             "message": "The killswitch has been activated."
         }, {
-            "time": 1684230174,
+            "date": 1684230174,
             "type": "update",
             "message": "Update to 0.10.8 is available.",
             "link": "Update to 0.10.8 is available."
